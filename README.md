@@ -20,7 +20,6 @@ MinKernel: 22.4.0
 Count: 1
 #
 Enabled: True
-#
-or disable appleVTD
+#or disable appleVTD
 
 ![alt text](https://github.com/cupecups/Z390-Designare-OC/blob/main/vent.png)
