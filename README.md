@@ -15,4 +15,6 @@ simple fix is add kernel patch
 1. enable disableIOmapper on kernel quirk or disable intel VT-D on bios
 2. add boot arg e1000=0
 
+
+thanks to CaseySJ
 ![alt text](https://github.com/cupecups/Z390-Designare-OC/blob/main/13.png)
