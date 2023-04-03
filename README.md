@@ -1,3 +1,5 @@
+![alt text](https://github.com/cupecups/Z390-Designare-OC/blob/main/13.png)
+
 # Z390-Designare-OC
 about Z390 Designare opencore hackintosh
 
@@ -17,4 +19,4 @@ simple fix is add kernel patch
 
 
 thanks to CaseySJ
-![alt text](https://github.com/cupecups/Z390-Designare-OC/blob/main/13.png)
+
