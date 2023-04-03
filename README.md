@@ -3,7 +3,7 @@
 # Z390-Designare-OC
 about Z390 Designare opencore hackintosh
 
-dont update to 13.3 if -  some issue is wifi BT and ethernet not working
+update to 13.3 with caution - have some issue with wifi BT and ethernet not working when appleVTD enable and issue with more 16gb ram
 simple fix is add kernel patch 
 1. Identifier: com.apple.iokit.IOPCIFamily
 2. Base: __ZN11IOPCIBridge20addBridgeMemoryRangeEyyb
