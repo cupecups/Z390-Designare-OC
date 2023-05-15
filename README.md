@@ -3,7 +3,7 @@
 # Z390-Designare-OC
 about Z390 Designare opencore hackintosh
 
-update to 13.3.1 ~with caution - have some issue with wifi BT and ethernet not working when appleVTD enable and issue with more 16gb ram_
+update to 13.3.1 ~with caution - have some issue with wifi BT and ethernet not working when appleVTD enable and issue with more 16gb ram~
 fixed with opencore 0.9.2 and enable DisableIoMapperMapping on kernel - Quirk
 #
 simple fix is add kernel patch (for opencore 0.9.1 or lower with ventura 13.3.x)
