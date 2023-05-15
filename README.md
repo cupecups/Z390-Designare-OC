@@ -1,11 +1,12 @@
-![alt text](https://github.com/cupecups/Z390-Designare-OC/blob/main/13.png)
+![alt text](https://github.com/cupecups/Z390-Designare-OC/blob/main/1311.png)
 
 # Z390-Designare-OC
 about Z390 Designare opencore hackintosh
 
-update to 13.3 with caution - have some issue with wifi BT and ethernet not working when appleVTD enable and issue with more 16gb ram
+update to 13.3.1 ~with caution - have some issue with wifi BT and ethernet not working when appleVTD enable and issue with more 16gb ram_
+fixed with opencore 0.9.2 and enable DisableIoMapperMapping on kernel - Quirk
 #
-simple fix is add kernel patch 
+simple fix is add kernel patch (for opencore 0.9.1 or lower with ventura 13.3.x)
 1. Identifier: com.apple.iokit.IOPCIFamily
 2. Base: __ZN11IOPCIBridge20addBridgeMemoryRangeEyyb
 3. Comment: CaseySJ - Fix AppleVTD issue in 13.3+
