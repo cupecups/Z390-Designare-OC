@@ -1,3 +1,4 @@
+![alt text](https://github.com/cupecups/Z390-Designare-OC/blob/main/SONOMAC.png)
 ![alt text](https://github.com/cupecups/Z390-Designare-OC/blob/main/1311.png)
 
 # Z390-Designare-OC
