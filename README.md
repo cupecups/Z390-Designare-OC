@@ -1,5 +1,5 @@
-![alt text](https://github.com/cupecups/Z390-Designare-OC/blob/main/SONOMAC.png)
-![alt text](https://github.com/cupecups/Z390-Designare-OC/blob/main/1311.png)
+![alt text](https://github.com/cupecups/Z390-Designare-OC/blob/db7e828e44bf11964d59dcc8aaf64736eabfb96d/Screenshoot/SONOMAC.png)
+![alt text](https://github.com/cupecups/Z390-Designare-OC/blob/db7e828e44bf11964d59dcc8aaf64736eabfb96d/Screenshoot/1311.png)
 
 # Z390-Designare-OC
 about Z390 Designare opencore hackintosh
