@@ -17,6 +17,10 @@ simple fix is add kernel patch (for opencore 0.9.1 or lower with ventura 13.3.x)
 7. Count: 1
 8. Enabled: True
 ## or disable appleVTD
+1. enable disableIOmapper on kernel quirk or disable intel VT-D on bios
+2. add boot arg e1000=0
+
+thanks to CaseySJ
 
 get from OC little Translate
 # How to re-enable previously supported Wi-Fi Cards in macOS Sonoma with OpenCore Legacy Patcher
@@ -187,9 +191,5 @@ Next, we will create `DeviceProperties` to inject our newly found `IOName` spoof
 - Acquarius13 for figuring out what to edit in OCLPs Source Code
 - deeveedee for pointing me towards using `brcmfxbeta` boot-arg and the method for spoofing a compatible `IOName`.
 
-1. enable disableIOmapper on kernel quirk or disable intel VT-D on bios
-2. add boot arg e1000=0
 
-
-thanks to CaseySJ
 
