@@ -1,4 +1,4 @@
-![alt text](https://github.com/cupecups/Z390-Designare-OC/blob/db7e828e44bf11964d59dcc8aaf64736eabfb96d/Screenshoot/this.png)
+![alt text](https://github.com/cupecups/Z390-Designare-OC/blob/0d6dc91bea4a34cb2ccfbfe22ee0e5a9774effaa/this.png)
 
 # Z390-Designare-OC
 about Z390 Designare opencore hackintosh
