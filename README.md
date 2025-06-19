@@ -1,3 +1,4 @@
+![alt text](https://github.com/cupecups/Z390-Designare-OC/blob/31d706ddc4021625f8b957134831026a31a42f15/tahubulat.png)
 ![alt text](https://github.com/cupecups/Z390-Designare-OC/blob/0d6dc91bea4a34cb2ccfbfe22ee0e5a9774effaa/this.png)
 
 # Z390-Designare-OC
